@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Antique+B1&display=swap');
+
+
+
+
+
+*{
+
+font-family: 'Shippori Antique B1', sans-serif;
+
+}
+
+
+
+.checkout{
+
+margin-top: -30rem;
+margin-left: 12rem;
+
+
+
+}
+
+.shadows{
+
+height: 500px;
+margin-left: 4rem;
+width: 70rem;
+box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    
+
+}
+
+
+.shadows:hover{
+
+transition: 1s;
+
+
+
+}
+
+
+span{
+
+color: red;
+
+}
+
+h1{
+
+margin-left: 3rem;;
+
+}
+
+input{
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset;
+   
+border-radius: .3rem;
+font-weight: bolder;
+color: red;
+
+}
+
+textarea{
+
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset;
+   
+    border-radius: .3rem;
+    font-weight: bolder;
+    color: red;
+
+}
+
+table,thead{
+ color: #eee; 
+margin-left: -2.6rem;
+padding: 5rem;
+
+}
+
+
+
+thead {
+    
+    border:1px solid black;
+    text-align: center;
+    
+    
+    }
+
+table td{
+    
+border:1px solid black;
+text-align: center;
+
+
+}
+

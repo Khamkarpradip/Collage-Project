@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap');
+
+
+
+
+
+
+
+
+
+::selection{
+
+color: red;
+
+}
+
+
+*
+
+ {
+
+    
+  font-family: 'Nunito', sans-serif;
+  margin:0; padding:0;
+  text-decoration: none;
+  text-transform: capitalize;
+  
+  
+ }
+
+ 
+section{
+
+margin-right: 3rem;
+
+}
+
+
+.logo img{
+margin-left: 6rem;
+width: 3rem;
+
+}
+
+
+
+
+
+
+
+.links{
+
+margin-left: 41rem;
+}
+
+
+
+a{
+
+   cursor: pointer;
+   border: solid;
+   font-size: 1.2rem;
+   color: white;
+   border-radius: 1rem;
+   padding: .8rem;
+   background-color: orange;
+   margin-left: 1rem;
+   margin-top: 3rem;
+   transition: 2.1s;
+   margin-right: -1rem;
+
+}
+
+
+a:hover{
+
+   background-color: royalblue;
+
+}
+
+
+
+
+
+ .card{
+     
+    
+    margin-left: 16rem;
+    height: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 1rem;
+    text-align: center;
+    margin-top: -10rem;
+ }
+
+
+.product{
+   float: left;
+    margin: 10px;
+    gap: 1rem;
+  
+}
+
+
+
+
+
+
+ .heading h1{
+    
+  
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    background-color:#27ae60;
+    padding: 1rem;
+    color: white;
+ }
+.heading h1:hover{
+    transition: .5s;
+    background-color: orange;
+ }
+
+ .heading img{
+
+   width: 16rem;
+   margin-left: 30rem;
+ }
+
+ .btn{
+   font-size: 1rem;
+    width: 16rem;
+    margin-top: 1rem;
+    padding: .8rem;
+    border: none;
+    outline: none;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+ }
+ 
+ .btn:hover{
+
+   background-color: #27ae60;
+ }
+
+ input{
+ 
+   width: 5rem;
+ }
+
+ .price{
+    
+    color: red;
+    text-decoration: line-through;
+ }
+
+ .quantity{
+    margin-top: .5rem;
+ }
+
+ .sprice{
+margin-top: -1rem;
+
+ }
+
+ .product{
+    position: relative;
+    flex-direction: column;
+    flex-wrap: wrap;
+    display: flex;
+    margin: 3rem;
+
+ }

@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+
+*{
+
+
+    font-family: 'Varela Round', sans-serif;
+
+}
+
+h1{
+
+padding: 1rem;
+text-align: center;
+background-color: #27ae60;
+color: white;
+
+}
+
+.main{
+
+width: 50rem;
+background-color: #eee;
+margin-left: 16rem;
+
+}
+
+.main:hover{
+transition: 2s;
+width: 4rem;
+
+}
+
+
+.shadows{
+    
+    border-radius: .5rem;
+    height:36rem;
+    width:50rem;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+
+}
+
+.frist{
+
+margin-left: 10rem;
+
+}
+
+.second
+
+    {
+
+    margin-left: 27rem;
+    margin-top: -3rem;
+    }
+
+
+ .dist{
+
+    margin-left: 27rem;
+    margin-bottom:-1rem;
+
+    } 
+   
+    
+.mnumber{
+  
+    margin-left: 10rem;
+}
+.ctime{
+
+    margin-left: 10rem;
+}
+
+.producttype
+{   margin-top:-3.6rem;
+    margin-left: 27rem;  
+}
+
+.contain
+{
+    margin-left:2.5rem;
+}
+
+.address{
+
+    margin-left: 10rem; 
+}
+
+.caddress
+{   
+    margin-top:-5rem;
+    margin-left: 27rem;    
+}
+
+.pin{
+    margin-top:.4rem;
+    margin-left: 10rem; 
+
+}
+
+.gender{
+    margin-top:-2.9rem;
+    margin-left: 27rem; 
+}
+
+button{
+
+color: azure;    
+padding:.5rem;
+border-radius: .2rem;
+border: none;
+background-color:#27ae60;
+margin-left: 21.5rem;
+margin-top: .9rem;
+cursor: pointer;
+}
+
+
+button:hover
+{
+transition: 1s;
+background-color: orange;
+
+}
+
+input{
+margin-top: .3rem;    
+box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+border: none;
+text-align: center;
+padding:0.30rem ;
+color: red;
+
+}
+
+
+
+
+
+select
+{
+    border: none;
+    padding: 0.09rem;
+    text-align: center;
+    width: 10rem;
+    margin-top: .3rem;    
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+}
+
+textarea{
+
+    border: none;
+    padding: 0.09rem;
+    text-align: center;
+    width: 10rem;
+    margin-top: .3rem;    
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+
+}

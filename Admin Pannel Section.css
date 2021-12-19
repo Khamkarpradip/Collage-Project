@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap');
+
+
+
+
+
+
+
+
+
+::selection{
+
+color: red;
+
+}
+
+
+*
+
+ {
+
+  font-family: 'Nunito', sans-serif;
+  margin:0; padding:0;
+  text-decoration: none;
+  text-transform: capitalize;
+  
+  
+ }
+
+
+ i{
+
+color: red;
+
+ }
+
+
+
+.img img{
+margin-top: -0.2rem;
+margin-left: .8rem;
+width: 3rem;
+}
+
+
+.shadows
+{   
+    margin-left: 1.2rem;
+     width:78rem;
+     height: 50px;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+}
+
+
+
+
+input
+
+{   text-align: center;
+    padding-top: .3rem;
+    padding-bottom: .2rem;
+    border: none;
+    width: 9rem;
+    margin-left: .4rem;
+}
+
+h1{
+font-weight: bolder;    
+margin-top: -3rem;    
+text-align: center;
+font-size: 1.5rem;
+
+}
+
+
+.icon{
+   margin-top: -2.5rem;;
+    margin-left:63rem;
+}
+
+
+.icon i{
+  color: grey;
+    margin:1rem;
+}
+
+
+.icon i:hover{
+    color: orange;
+  }
+
+.bg{
+    margin-left: 1REM;
+   margin-top:.2rem;
+    height: 35rem;
+width: 16rem;
+background-color: #eee;
+
+}
+
+.bg p{
+
+margin-left: 1rem;
+
+}
+
+.bg i{
+margin-left: 1.9rem;;
+color: red;
+
+}
+
+
+.bg i:hover{
+    
+    color:green;
+
+
+}
+
+
+
+.bg a{
+    color: black;
+margin-top: 1rem;
+margin-left: 0.5rem;
+
+}
+
+
+.upload{
+    margin-top:1.5rem;
+}
+
+.upload1{
+
+margin-top: 1.4rem;
+
+}
+
+.icon span{
+ font-size: 1rem;   
+margin-top: 2rem;    
+text-align: center;
+padding-right: .3rem;    
+padding-left: .3rem;
+color: white;
+background-color: red;
+border-radius: 2rem;
+
+}
+
+
+.countproduct{
+
+margin-top: -4.3rem;
+
+}
+
+
+.countproduct h1{
+
+margin-left: -32rem;
+margin-top: 7rem;
+
+
+}
+
+
+.countproduct p{
+
+margin-top: 2rem;
+margin-left: 16rem;
+
+}
+
+.vegetablecount span, i {
+
+margin-left: 2.7rem;
+
+}
+
+.fruitscount
+{
+
+margin-top: -6.5rem;
+
+}
+
+.fruitscount span, i {
+
+    margin-left: 2.7rem;
+    
+    }
+
+
+.dairycount
+    {
+         
+    margin-top: -7rem;
+    
+    }
+    
+.dairycount span, i {
+    
+        margin-left: 2.7rem;
+        
+        }   
+.countproduct{
+    
+     height: 180px;
+   
+     box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}     
+
+.upload button{
+
+margin-top: -2rem;
+
+}
+

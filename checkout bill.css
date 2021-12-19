@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+
+
+
+
+
+
+*{
+
+    font-family: 'Roboto Condensed', sans-serif;
+
+
+}
+
+
+.shadows{
+
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    width: 55rem;
+margin-left: 14rem;
+border-radius: .5rem;
+
+}
+
+
+.customerdetails{
+
+margin-left: 2rem;
+
+}
+
+
+.customerdetails h1{
+    text-align: center;
+    width: 6rem;
+color: white;
+background-color: black;
+margin-top: 2rem;
+
+}
+
+
+
+.customerdetails h2{
+    
+    
+   
+color: red;
+background-color: black;
+margin-top: 2rem;
+
+}
+
+
+
+
+span{
+  margin-left: .5rem; 
+font-weight: bold;
+font-size: 2rem;
+color: black;
+}
+
+
+
+
+.id2{
+margin-top: -2.5rem;
+margin-left: 33rem;
+
+}
+
+.id1{
+    margin-top: -2.5rem;
+    margin-left: 37.9rem;
+    
+}
+
+.orderid{
+
+
+margin-top: 4.5rem;
+
+
+}
+
+.id3{
+    margin-top: -2.5rem;
+    margin-left: 47rem;
+
+}
+
+
+
+
+
+
+table, th, td {
+    margin-left: 3rem;
+    text-align: center;
+    border-radius: .1rem;
+
+
+  }
+
+  thead{
+        
+        border-radius: 1rem;
+       color: white;
+        font-weight: bold;
+  }
+
+ thead:hover{
+
+        
+         transition: .5s;
+         background-color: orange;
+         
+
+ }
+ 
+ tbody{
+
+
+background-color: #eee;
+
+ }
+
+
+ td{
+
+
+padding: 1rem;
+
+ }
+
+button{
+
+margin-left: 25rem;
+
+
+}
